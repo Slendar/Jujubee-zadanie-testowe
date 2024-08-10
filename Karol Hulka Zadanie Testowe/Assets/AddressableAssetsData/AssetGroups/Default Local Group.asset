@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 319a9e60e65d5e949a2acb3f545dc3aa
+  m_SerializeEntries:
+  - m_GUID: 4efb3e2e40899604a9142b3e589792df
+    m_Address: Assets/Images/WeaponSprites/Daggers.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2b665ecb36138d841bd8293ee0e149c8
+    m_Address: Assets/Images/WeaponSprites/GunSprite.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: af7545260e1620248bdd5ff99251960c
+    m_Address: Assets/Images/WeaponSprites/Shotgun.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 86371b69e218da0489cafdfa926b9133
+    m_Address: Assets/Images/WeaponSprites/Sword.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9be71cd30ffb6ff4c9bdecbc1b6e621f
+    m_Address: Assets/Prefabs/Daggers.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e58f859a7e5177e4eb693e97f3cf5e07
+    m_Address: Assets/Prefabs/Gun.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 693ae2778afebc74fb6526e89ffba88b
+    m_Address: Assets/Prefabs/Shotgun.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dc09af4570f674e428ab158a0acb51f9
+    m_Address: Assets/Prefabs/Sword.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 34c098a766f66c045a4430cb0b5deda3, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 2453b90683bee5049b5699e49d44d37a, type: 2}
+    - {fileID: 11400000, guid: e513e19c0948a234d8272b6bec8092d7, type: 2}
